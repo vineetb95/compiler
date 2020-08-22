@@ -35,16 +35,3 @@ fun execute inputFile = let
 in
 	(print "\nThree Address Code executed successfully!\n")
 end
-(* end *)
-(* open Compiler *)
-(*On encountering errors like Overflow error, etc. please try running the program again after correcting your while script.*)
-(*To execute a while script pass the location of the script as a string to the execute Function*)
-(*Example:- execute "testcases\factorial.txt"*)
-(*The interpreter waits on encountering a read command, for the user to provide the input*)
-(*To provide input on the terminal write the input and press enter*)
-(* val dump = (print "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInstructions:")
-val dump = (print "\n1. To execute a while script pass the location of the script as a string to the execute function")
-val dump = (print "\n2. Example:- execute \"testcases/factorial.txt\"")
-val dump = (print "\n3. The interpreter waits on encountering a read command, for the user to provide the input")
-val dump = (print "\n4. To provide input on the terminal write the input and press enter")
-val dump = (print "\n5. On encountering errors like Overflow error, etc. please try running the program again after correcting your while script.\n\n\n\n\n") *)
