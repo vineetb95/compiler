@@ -1,5 +1,5 @@
 # Compiler
-Top-Down compiler that generates a three address code.
+Top-Down compiler that generates a three address code
 
 ## Instructions
 * To execute a while script pass the location of the script as a string to the execute function
